@@ -1,0 +1,12 @@
+{
+    "URLS": {
+        "URL": "https://practicesoftwaretesting.com/"
+    },
+    "CSV": {
+        "validLogin": "src/test/java/testData/valid_login.csv",
+        "invalidLogin": "src/test/java/testData/invalid_login.csv"
+    },
+    "Excel": {
+        "validLogin": "src/test/java/testData/validlogin.xlsx"
+    }
+}

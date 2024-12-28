@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="seleniumUIPractice">
+    <test name="seleniumUIPracticeTest">
+        <parameter name="browser" value="chrome"/>
+        <!-- <parameter name="suiteName" value="FeatureTests"/> -->
+        <listeners>
+            <listener class-name="utils.ScreenshotListener"/>
+         </listeners>
+         <!-- <classes>
+            <class name="tests.LoginTest"/>
+        </classes> -->
+        <packages>
+            <package name="test.java.testCase.*"/>
+        </packages>
+    </test>
+</suite>

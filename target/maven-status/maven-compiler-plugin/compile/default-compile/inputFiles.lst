@@ -1,0 +1,12 @@
+/Users/santhiparambalam/Documents/Code/seleniumUIPractice/src/main/java/base/BaseTest.java
+/Users/santhiparambalam/Documents/Code/seleniumUIPractice/src/main/java/pages/DashboardPage.java
+/Users/santhiparambalam/Documents/Code/seleniumUIPractice/src/main/java/pages/LoginPage.java
+/Users/santhiparambalam/Documents/Code/seleniumUIPractice/src/main/java/pages/MenuPage.java
+/Users/santhiparambalam/Documents/Code/seleniumUIPractice/src/main/java/utils/CSVDataProvider.java
+/Users/santhiparambalam/Documents/Code/seleniumUIPractice/src/main/java/utils/CaptureScreenshot.java
+/Users/santhiparambalam/Documents/Code/seleniumUIPractice/src/main/java/utils/ExcelDataProvider.java
+/Users/santhiparambalam/Documents/Code/seleniumUIPractice/src/main/java/utils/ExcelUtil.java
+/Users/santhiparambalam/Documents/Code/seleniumUIPractice/src/main/java/utils/JsonConfigReader.java
+/Users/santhiparambalam/Documents/Code/seleniumUIPractice/src/main/java/utils/Log.java
+/Users/santhiparambalam/Documents/Code/seleniumUIPractice/src/main/java/utils/TestStatusListener.java
+/Users/santhiparambalam/Documents/Code/seleniumUIPractice/src/main/java/utils/WebDriverUtils.java
