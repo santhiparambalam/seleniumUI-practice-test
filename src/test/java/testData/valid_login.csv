@@ -1,4 +1,3 @@
-role,email,password
-admin,admin@practicesoftwaretesting.com,welcome01
-user,customer@practicesoftwaretesting.com,welcome01
-user,customer2@practicesoftwaretesting.com,welcome02
+role,email,password,titleText
+admin,admin@practicesoftwaretesting.com,welcome01,Sales over the years
+user,customer@practicesoftwaretesting.com,welcome01,My account
